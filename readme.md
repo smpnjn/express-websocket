@@ -1,1 +1,1 @@
-<a href="http://fjolt.com/article/javascript-websockets">See here for article</a>
+<a href="http://fjolt.com/article/javascript-websockets">See here for article</a>. Server can be started with <code>node index.js</code>.
